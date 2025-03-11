@@ -516,19 +516,6 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Sea Beggar",
-		"unitType": "Melee Water",
-		"replaces": "Privateer",
-		"uniqueTo": "The Netherlands",
-		"movement": 5,
-		"strength": 25,
-		"cost": 150,
-		"requiredTech": "Navigation",
-		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply", "[Privateer] ability"],
-		"attackSound": "cannon"
-	},
-	{
 		"name": "Ship of the Line",
 		"unitType": "Ranged Water",
 		"replaces": "Frigate",
